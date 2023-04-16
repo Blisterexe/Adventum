@@ -1,5 +1,5 @@
 # Adventum
-repository for the Adventum modpack.
+extra information for the Adventum modpack.
 
 to get custom capes with the "capes" mod, go to minecraftcapes.net, register an account and upload a cape. You can find a cape either in the websites gallery or make one yourself, to apply the cape go to the skin settings, clikc on the cape icon, enable all capes and set you cape type to Minecraftcapes.
 
