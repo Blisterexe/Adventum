@@ -8,3 +8,5 @@ To use your vanilla or optifine cape, use that option instead. Anyone with a com
 to use the customizable player models mod, follow these two excellent tutorials by Chilley: https://youtu.be/ULnyfCvtTH0 and https://www.youtube.com/watch?v=LouYA3KGpro
 
 anyone using the mod will see the custom skin, and anyone without it will just see your normal one.
+
+if the modpack causes your os to say "program is not responding" just press wait.
